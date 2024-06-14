@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "prueba04"
+  site-url: "https://Itzelep.github.io/prueba04"
+  description: "esto es la prueba 04"
+  repo-branch: main
+  repo-url: "https://github.com/Itzelep/prueba04"
