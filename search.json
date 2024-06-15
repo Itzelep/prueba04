@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "prueba04",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "prueba04"
+    ]
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "prueba04",
+    "section": "Install",
+    "text": "Install\npip install prueba04",
+    "crumbs": [
+      "prueba04"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "prueba04",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "prueba04"
+    ]
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "PRUEBA 04",
+    "section": "",
+    "text": "source\n\nsaludo\n\n saludo ()\n\nImprime Hola",
+    "crumbs": [
+      "PRUEBA 04"
+    ]
+  }
+]
