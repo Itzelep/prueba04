@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://Itzelep.github.io',
                 'git_url': 'https://github.com/Itzelep/prueba04',
                 'lib_path': 'prueba04'},
-  'syms': {'prueba04.core': {'prueba04.core.foo': ('core.html#foo', 'prueba04/core.py')}}}
+  'syms': { 'prueba04.core': { 'prueba04.core.saludo': ('core.html#saludo', 'prueba04/core.py'),
+                               'prueba04.core.saludo_a': ('core.html#saludo_a', 'prueba04/core.py')}}}
